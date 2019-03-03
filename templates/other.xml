@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="main" value="public static void main ( String[] args ) {&#10;    $END$&#10;}" shortcut="ENTER" description="Method main" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

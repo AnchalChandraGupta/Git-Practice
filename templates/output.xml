@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="print" value="System.out.println($END$);" shortcut="ENTER" description="System out print" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
